@@ -12,6 +12,10 @@ class Artist
 
   end
 
+  def genres
+    
+  end
+
   def self.all
     @@all
   end
